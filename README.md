@@ -21,7 +21,7 @@ Reduzir a "odisséia diagnóstica" enfrentada por pacientes com doenças raras, 
 ## ⚙️ Tecnologias Utilizadas
 
 - **Python 3.12+**
-- **XGBoost** – algoritmo principal de classificação.
+- **XGBoost / Xrare** – algoritmo principal de classificação.
 - **Pandas / NumPy** – manipulação de dados.
 - **Orphanet** – base de dados sobre doenças raras.
 - **Banco de dados da Rede RARAS** – informações clínicas e genéticas.
